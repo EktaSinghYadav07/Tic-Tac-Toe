@@ -1,35 +1,44 @@
-Tic Tac Toe
+# Tic Tac Toe
 
-A responsive Tic Tac Toe game built with **HTML, CSS, and JavaScript**.
-Designed for two players with smooth interactions and a clean, minimal UI.
+A responsive **Tic Tac Toe game** built with **HTML, CSS, and JavaScript**.
+Designed for two players with smooth interactions and a clean, minimal user interface.
 
-🌟 Features
+---
 
-  Two-player gameplay
-  Modern and responsive design
-  Automatic win and draw detection
-  Restart/Reset option
-  Fast and lightweight
+## Features
 
-🛠️ Tech Stack
+* Two-player gameplay
+* Modern and responsive design
+* Automatic win and draw detection
+* Restart/Reset option
+* Fast and lightweight
 
-**HTML5** – structure
-**CSS3** – styling and layout
-**JavaScript (ES6)** – game logic and interactivity
+---
 
-🚀 Live Demo
+## Tech Stack
 
-🔗 **Play Now:** [Tic Tac Toe](https://ektasinghyadav07.github.io/Tic-Tac-Toe/)
+* **HTML5** – structure
+* **CSS3** – styling and layout
+* **JavaScript (ES6)** – game logic and interactivity
+
+---
+
+## Live Demo
+
+**Play Now:** [Tic Tac Toe](https://ektasinghyadav07.github.io/Tic-Tac-Toe/)
 
 
-💡 Future Enhancements
+---
 
- Add single-player mode (AI opponent)
- Add sound effects and animations
- Improve mobile experience
+## Future Enhancements
 
+* Add single-player mode (AI opponent)
+* Add sound effects and animations
+* Improve mobile experience
 
-🧑‍💻 Author
+---
+
+## Author
 
 **Ekta Singh Yadav**
 📧 [(mailto:ektasinghyadav14@gmail.com)]
