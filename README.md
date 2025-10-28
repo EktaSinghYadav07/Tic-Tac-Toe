@@ -5,11 +5,11 @@ Designed for two players with smooth interactions and a clean, minimal UI.
 
 🌟 Features
 
- ✅ Two-player gameplay
- 🎨 Modern and responsive design
- 🧠 Automatic win and draw detection
- 🔁 Restart/Reset option
- ⚡ Fast and lightweight
+  Two-player gameplay
+  Modern and responsive design
+  Automatic win and draw detection
+  Restart/Reset option
+  Fast and lightweight
 
 🛠️ Tech Stack
 
@@ -24,9 +24,9 @@ Designed for two players with smooth interactions and a clean, minimal UI.
 
 💡 Future Enhancements
 
-🤖 Add single-player mode (AI opponent)
-🎵 Add sound effects and animations
-📱 Improve mobile experience
+ Add single-player mode (AI opponent)
+ Add sound effects and animations
+ Improve mobile experience
 
 
 🧑‍💻 Author
