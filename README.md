@@ -27,7 +27,10 @@ Designed for two players with smooth interactions and a clean, minimal user inte
 
 **Play Now:** [Tic Tac Toe](https://ektasinghyadav07.github.io/Tic-Tac-Toe/)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 80fe3817838f3db1abaf3ecd48f6e88b03ffb30d
 ---
 
 ## Future Enhancements
@@ -41,5 +44,9 @@ Designed for two players with smooth interactions and a clean, minimal user inte
 ## Author
 
 **Ekta Singh Yadav**
+<<<<<<< HEAD
 📧 [(mailto:ektasinghyadav14@gmail.com)]
 🔗 [GitHub Profile](https://github.com/EktaSinghYadav07)
+=======
+GitHub: [EktaSinghYadav07](https://github.com/EktaSinghYadav07)
+>>>>>>> 80fe3817838f3db1abaf3ecd48f6e88b03ffb30d
